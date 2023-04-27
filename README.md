@@ -1,3 +1,3 @@
 # ilkgithubrepom
 github dersi icin deneme
-### merhabarepoma hosgeldiniz::))
+### merhaba repoma hosgeldiniz::))
